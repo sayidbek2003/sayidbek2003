@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sayidbek</h1>
 <h3 align="center">Let's create the future together</h3>
-<img align= "right"  width="400"src="https://media.licdn.com/dms/image/v2/C4D12AQESj72-s5gEKg/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1626753867110?e=2147483647&v=beta&t=rtLXIlbaUs8nhMnaC9aEv08PhyGTjFfwrgE8ZdCmziM"	 >
+<img   width="100%"src="https://media.licdn.com/dms/image/v2/C4D12AQESj72-s5gEKg/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1626753867110?e=2147483647&v=beta&t=rtLXIlbaUs8nhMnaC9aEv08PhyGTjFfwrgE8ZdCmziM"	 >
 - 📝 I regularly write articles on [https://coherent-cub-831.notion.site/Articles-1df5ff078a1f8060bde9c839e25755ec](https://coherent-cub-831.notion.site/Articles-1df5ff078a1f8060bde9c839e25755ec)
 
 - 💬 Ask me about **AI**
